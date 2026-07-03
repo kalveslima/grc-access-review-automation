@@ -1,0 +1,9 @@
+id_colaborador,nome,departamento,sistema,gestor,status_revisao,data_limite
+EMP001,Ana Silva,Financeiro,SAP,Carlos Souza,Revisado,2026-07-15
+EMP002,Bruno Santos,Tecnologia,AWS,Mariana Lima,Pendente,2026-07-15
+EMP003,Carla Costa,Recursos Humanos,GSuite,Carlos Souza,Revisado,2026-07-15
+EMP004,Diego Oliveira,Tecnologia,GitHub,Mariana Lima,Atrasado,2026-07-01
+EMP005,Elena Rodrigues,Financeiro,SAP,Carlos Souza,Pendente,2026-07-15
+EMP006,Fabio Almeida,Comercial,Salesforce,Amanda Costa,Revisado,2026-07-15
+EMP007,Gabriela Lima,Tecnologia,AWS,Mariana Lima,Atrasado,2026-07-01
+EMP008,Helena Souza,Marketing,Hubspot,Amanda Costa,Pendente,2026-07-15
