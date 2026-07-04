@@ -1,5 +1,5 @@
 nome_funcionario,id_funcionario,sistema,gerente,email_gerente,status_revisao
-Carlos Silva,F10293,SAP Financeiro,Kauan Lima,seu_email_teste@gmail.com,Pendente
-Ana Souza,F39482,Active Directory,Kauan Lima,seu_email_teste@gmail.com,Revisado
-Marcos Prado,F84729,AWS Console,Kauan Lima,seu_email_teste@gmail.com,Atrasado
-Julia Costa,F20394,Salesforce CRM,Gestor Inexistente,outro_email_teste@gmail.com,Pendente
+Carlos Silva,F10293,SAP Financeiro,Kauan Lima,dougla3301@gmail.com,Pendente
+Ana Souza,F39482,Active Directory,Kauan Lima,dougla3301@gmail.com,Revisado
+Marcos Prado,F84729,AWS Console,Kauan Lima,dougla3301@gmail.com,Atrasado
+Julia Costa,F20394,Salesforce CRM,Gestor Inexistente,dougla3301@gmail.com,Pendente
