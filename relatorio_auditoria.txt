@@ -1,0 +1,9 @@
+========================================================
+RELATÓRIO DE AUDITORIA E COMPLIANCE - CONTROLE DE ACESSOS (IAM)
+========================================================
+- Total de Acessos Mapeados na Base: 4
+- Acessos Revisados (Em Conformidade): 1
+- Acessos Pendentes (Dentro do Prazo): 2
+- Acessos Atrasados (Risco Identificado): 1
+- Índice Geral de Conformidade: 25.0%
+========================================================
