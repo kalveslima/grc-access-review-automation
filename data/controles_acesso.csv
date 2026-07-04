@@ -1,5 +1,102 @@
+﻿
 nome_funcionario,id_funcionario,sistema,gerente,email_gerente,status_revisao
-Carlos Silva,F10293,SAP Financeiro,Kauan Lima,dougla3301@gmail.com,Pendente
-Ana Souza,F39482,Active Directory,Kauan Lima,dougla3301@gmail.com,Revisado
-Marcos Prado,F84729,AWS Console,Kauan Lima,dougla3301@gmail.com,Atrasado
-Julia Costa,F20394,Salesforce CRM,Gestor Inexistente,dougla3301@gmail.com,Pendente
+Julia Silva,F93810,Google Workspace,maria edna,ednardtecnologia@gmail.com,Pendente
+Juliana Costa,F28289,Active Directory,kaique lima,kaiqui82@gmail.com,Pendente
+Marcos Pereira,F13905,Salesforce CRM,Kauan Lima,dougla3301@gmail.com,Atrasado
+Mateus Barbosa,F36062,GitHub Enterprise,maria edna,ednardtecnologia@gmail.com,Revisado
+Gabriel Silva,F87236,AWS Console,kaique lima,kaiqui82@gmail.com,Revisado
+Lucas Pereira,F46421,Jira Software,Kauan Lima,dougla3301@gmail.com,Pendente
+Julia Gomes,F59797,Jira Software,Kauan Lima,elisacatarina3302@gmail.com,Pendente
+Bruna Costa,F70217,GitHub Enterprise,Kauan Lima,dougla3301@gmail.com,Atrasado
+Vinícius Lima,F48427,Jira Software,maria edna,ednardtecnologia@gmail.com,Atrasado
+Ana Almeida,F19116,Google Workspace,Kauan Lima,dougla3301@gmail.com,Pendente
+Fernando Ferreira,F23238,Office 365 Admin,Kauan Lima,elisacatarina3302@gmail.com,Pendente
+Larissa Pereira,F58520,Google Workspace,Kauan Lima,dougla3301@gmail.com,Atrasado
+Mariana Barbosa,F93227,Salesforce CRM,maria edna,ednardtecnologia@gmail.com,Revisado
+Gabriel Barbosa,F59735,Salesforce CRM,Kauan Lima,elisacatarina3302@gmail.com,Pendente
+Vinícius Souza,F40021,Jira Software,kaique lima,kaiqui82@gmail.com,Revisado
+Pedro Nunes,F18675,Jira Software,maria edna,ednardtecnologia@gmail.com,Atrasado
+Fernando Ribeiro,F75435,AWS Console,Kauan Lima,elisacatarina3302@gmail.com,Pendente
+Juliana Barbosa,F42325,Google Workspace,kaique lima,kaiqui82@gmail.com,Atrasado
+Larissa Almeida,F62350,AWS Console,kaique lima,kaiqui82@gmail.com,Pendente
+Jessica Costa,F16175,AWS Console,maria edna,ednardtecnologia@gmail.com,Atrasado
+Aline Prado,F65333,GitHub Enterprise,kaique lima,kaiqui82@gmail.com,Atrasado
+Ricardo Ferreira,F71348,SAP Financeiro,Kauan Lima,dougla3301@gmail.com,Atrasado
+Leonardo Ferreira,F80381,Jira Software,Kauan Lima,dougla3301@gmail.com,Revisado
+Mariana Ribeiro,F66985,SAP Financeiro,Kauan Lima,elisacatarina3302@gmail.com,Atrasado
+Ricardo Costa,F33416,Google Workspace,maria edna,ednardtecnologia@gmail.com,Pendente
+Leonardo Oliveira,F59009,SAP Financeiro,Kauan Lima,elisacatarina3302@gmail.com,Revisado
+Julia Gomes,F12552,Google Workspace,maria edna,ednardtecnologia@gmail.com,Pendente
+Diego Nunes,F41571,Active Directory,Kauan Lima,dougla3301@gmail.com,Atrasado
+Vinícius Prado,F73699,AWS Console,maria edna,ednardtecnologia@gmail.com,Atrasado
+Bruna Oliveira,F72296,Google Workspace,kaique lima,kaiqui82@gmail.com,Pendente
+Leonardo Pereira,F80686,Google Workspace,kaique lima,kaiqui82@gmail.com,Atrasado
+Larissa Ribeiro,F95180,Office 365 Admin,Kauan Lima,dougla3301@gmail.com,Pendente
+Marcos Montes,F39451,SAP Financeiro,maria edna,ednardtecnologia@gmail.com,Atrasado
+Carlos Prado,F38864,SAP Financeiro,maria edna,ednardtecnologia@gmail.com,Pendente
+Jessica Montes,F14117,Active Directory,maria edna,ednardtecnologia@gmail.com,Revisado
+Letícia Pereira,F97684,AWS Console,kaique lima,kaiqui82@gmail.com,Pendente
+Fernanda Araújo,F71993,Salesforce CRM,Kauan Lima,dougla3301@gmail.com,Pendente
+Camila Gomes,F96374,GitHub Enterprise,kaique lima,kaiqui82@gmail.com,Revisado
+Vanessa Costa,F17100,SAP Financeiro,kaique lima,kaiqui82@gmail.com,Atrasado
+Fernanda Costa,F54473,Salesforce CRM,maria edna,ednardtecnologia@gmail.com,Pendente
+Gustavo Santos,F80292,GitHub Enterprise,maria edna,ednardtecnologia@gmail.com,Revisado
+Beatriz Prado,F70637,Office 365 Admin,Kauan Lima,dougla3301@gmail.com,Pendente
+Bruna Silva,F95477,Active Directory,maria edna,ednardtecnologia@gmail.com,Pendente
+Letícia Carvalho,F63269,Salesforce CRM,kaique lima,kaiqui82@gmail.com,Pendente
+Fernando Silva,F31579,GitHub Enterprise,Kauan Lima,elisacatarina3302@gmail.com,Revisado
+Camila Barbosa,F47388,Office 365 Admin,maria edna,ednardtecnologia@gmail.com,Pendente
+Pedro Souza,F48890,SAP Financeiro,Kauan Lima,elisacatarina3302@gmail.com,Pendente
+Thiago Carvalho,F16572,AWS Console,Kauan Lima,dougla3301@gmail.com,Atrasado
+Jessica Oliveira,F20500,Active Directory,Kauan Lima,dougla3301@gmail.com,Atrasado
+Fernando Costa,F40828,Salesforce CRM,Kauan Lima,dougla3301@gmail.com,Atrasado
+Camila Nunes,F20745,Jira Software,Kauan Lima,elisacatarina3302@gmail.com,Pendente
+Mateus Montes,F97782,Salesforce CRM,Kauan Lima,elisacatarina3302@gmail.com,Revisado
+Vanessa Rodrigues,F27154,Office 365 Admin,Kauan Lima,elisacatarina3302@gmail.com,Pendente
+Gustavo Lima,F11220,Active Directory,Kauan Lima,dougla3301@gmail.com,Atrasado
+Ricardo Ferreira,F37938,AWS Console,Kauan Lima,elisacatarina3302@gmail.com,Pendente
+Larissa Rodrigues,F42018,AWS Console,kaique lima,kaiqui82@gmail.com,Atrasado
+Aline Mendes,F49651,SAP Financeiro,Kauan Lima,elisacatarina3302@gmail.com,Atrasado
+Diego Santos,F23577,Google Workspace,Kauan Lima,dougla3301@gmail.com,Pendente
+Lucas Ferreira,F82512,Google Workspace,maria edna,ednardtecnologia@gmail.com,Atrasado
+Pedro Ferreira,F54942,Office 365 Admin,Kauan Lima,elisacatarina3302@gmail.com,Pendente
+Felipe Araújo,F22097,Google Workspace,Kauan Lima,dougla3301@gmail.com,Pendente
+Leonardo Santos,F53719,Google Workspace,maria edna,ednardtecnologia@gmail.com,Atrasado
+Bruna Araújo,F67912,SAP Financeiro,Kauan Lima,dougla3301@gmail.com,Pendente
+Bruna Souza,F29536,Jira Software,maria edna,ednardtecnologia@gmail.com,Revisado
+Ana Rodrigues,F26704,Jira Software,Kauan Lima,dougla3301@gmail.com,Revisado
+Vanessa Almeida,F37535,Active Directory,Kauan Lima,elisacatarina3302@gmail.com,Atrasado
+Aline Santos,F63264,Salesforce CRM,maria edna,ednardtecnologia@gmail.com,Pendente
+Carlos Oliveira,F64040,Jira Software,kaique lima,kaiqui82@gmail.com,Atrasado
+Gabriel Oliveira,F42527,Active Directory,kaique lima,kaiqui82@gmail.com,Pendente
+Beatriz Pereira,F71694,Office 365 Admin,Kauan Lima,elisacatarina3302@gmail.com,Revisado
+Beatriz Silva,F39831,Salesforce CRM,kaique lima,kaiqui82@gmail.com,Revisado
+Jessica Prado,F46517,Google Workspace,Kauan Lima,elisacatarina3302@gmail.com,Atrasado
+Fernando Barbosa,F76768,Jira Software,Kauan Lima,dougla3301@gmail.com,Pendente
+Mariana Nunes,F44237,Google Workspace,Kauan Lima,dougla3301@gmail.com,Pendente
+Camila Gomes,F88193,Jira Software,kaique lima,kaiqui82@gmail.com,Atrasado
+Julia Martins,F77033,Salesforce CRM,Kauan Lima,elisacatarina3302@gmail.com,Pendente
+Carlos Mendes,F67154,Salesforce CRM,Kauan Lima,elisacatarina3302@gmail.com,Revisado
+Vanessa Montes,F19171,Jira Software,Kauan Lima,dougla3301@gmail.com,Atrasado
+Ricardo Rodrigues,F49363,GitHub Enterprise,Kauan Lima,elisacatarina3302@gmail.com,Revisado
+Bruna Santos,F48752,Salesforce CRM,kaique lima,kaiqui82@gmail.com,Atrasado
+Vanessa Oliveira,F59695,Google Workspace,kaique lima,kaiqui82@gmail.com,Atrasado
+Amanda Rodrigues,F10053,Salesforce CRM,kaique lima,kaiqui82@gmail.com,Atrasado
+Felipe Montes,F89516,Office 365 Admin,kaique lima,kaiqui82@gmail.com,Revisado
+Pedro Mendes,F98555,Office 365 Admin,maria edna,ednardtecnologia@gmail.com,Atrasado
+Amanda Mendes,F21114,Jira Software,Kauan Lima,dougla3301@gmail.com,Pendente
+Amanda Almeida,F98184,Salesforce CRM,maria edna,ednardtecnologia@gmail.com,Pendente
+Beatriz Carvalho,F16057,Active Directory,kaique lima,kaiqui82@gmail.com,Revisado
+Thiago Pereira,F92544,GitHub Enterprise,kaique lima,kaiqui82@gmail.com,Revisado
+Lucas Silva,F41979,Active Directory,kaique lima,kaiqui82@gmail.com,Pendente
+Fernanda Mendes,F33053,Office 365 Admin,Kauan Lima,dougla3301@gmail.com,Atrasado
+Caroline Costa,F42662,Office 365 Admin,maria edna,ednardtecnologia@gmail.com,Revisado
+Ricardo Barbosa,F97500,Jira Software,kaique lima,kaiqui82@gmail.com,Atrasado
+Camila Barbosa,F76162,Office 365 Admin,maria edna,ednardtecnologia@gmail.com,Atrasado
+Gustavo Ferreira,F72216,Salesforce CRM,Kauan Lima,elisacatarina3302@gmail.com,Atrasado
+Felipe Almeida,F73517,Google Workspace,kaique lima,kaiqui82@gmail.com,Pendente
+Beatriz Ferreira,F47450,Jira Software,Kauan Lima,elisacatarina3302@gmail.com,Atrasado
+Lucas Santos,F20561,Salesforce CRM,kaique lima,kaiqui82@gmail.com,Atrasado
+Mateus Pereira,F30028,Active Directory,kaique lima,kaiqui82@gmail.com,Revisado
+Bruna Ribeiro,F53369,GitHub Enterprise,Kauan Lima,dougla3301@gmail.com,Pendente
+Fernando Nunes,F65069,SAP Financeiro,kaique lima,kaiqui82@gmail.com,Revisado
